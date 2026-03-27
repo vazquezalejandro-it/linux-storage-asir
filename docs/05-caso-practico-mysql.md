@@ -232,4 +232,4 @@ La clave es siempre analizar el **patrón de I/O** del servicio antes de decidir
 
 ---
 
-*Anterior: [Pila de almacenamiento](04-pila-almacenamiento.md) · Ver también: [Lab NFS](../labs/04-nfs-lab-mint-fedora.md)*
+*Anterior: [Pila de almacenamiento](04-pila-almacenamiento.md) · Ver también: [Lab NFS](https://github.com/vazquezalejandro-it/linux-storage-asir/blob/main/labs/01-nfs-lab-mint-fedora.md)
